@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV - Alifah Rahmadiniyah</title>
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+
+  <div class="cv">
+
+    <header class="cv-header">
+      <h1>Alifah Rahmadiniyah</h1>
+      <p class="contact">alifahrahmaniya26@gmail.com | 085892817228 | Tangerang</p>
+    </header>
+
+    <section class="cv-section">
+      <h2>Profil</h2>
+      <p>
+        Mahasiswa Sistem Informasi yang memiliki ketertarikan dan siap berkontribusi dalam kegiatan
+        organisasi dan kepanitiaan. Memiliki kemampuan komunikasi, kerja sama tim, serta manajemen
+        waktu yang baik melalui berbagai proyek akademik. Selain itu, memiliki pengalaman organisasi
+        MPK (Majelis Perwakilan Kelas) semasa SMA.
+      </p>
+    </section>
+
+    <section class="cv-section">
+      <h2>Pendidikan</h2>
+
+      <div class="edu-entry">
+        <h3>Universitas Telkom</h3>
+        <p class="edu-detail">Sistem Informasi</p>
+      </div>
+
+      <div class="edu-entry">
+        <h3>SMA Negeri 3 Kab. Tangerang</h3>
+        <p class="edu-detail">Ilmu Pengetahuan Sosial (IPS)</p>
+      </div>
+    </section>
+
+    <section class="cv-section">
+      <h2>Pengalaman Organisasi</h2>
+
+      <div class="org-entry">
+        <h3>Sekretaris MPK</h3>
+        <ul>
+          <li>Mengelola administrasi dan surat menyurat.</li>
+          <li>Menyusun agenda serta membuat notulen rapat.</li>
+          <li>Mengarsipkan dokumen organisasi secara terstruktur.</li>
+          <li>Berkoordinasi dengan pengurus dalam menjalankan program kerja.</li>
+        </ul>
+      </div>
+
+      <div class="org-entry">
+        <h3>Divisi Acara</h3>
+        <p class="org-sub">Studi Banding Organisasi</p>
+        <ul>
+          <li>Menyusun susunan acara kegiatan.</li>
+          <li>Berkoordinasi dengan divisi lain untuk memastikan kegiatan berjalan sesuai rencana.</li>
+          <li>Memastikan acara berlangsung dengan lancar pada hari pelaksanaan.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cv-section">
+      <h2>Skill</h2>
+      <ul class="skill-list">
+        <li>Komunikasi</li>
+        <li>Kerja sama Tim</li>
+        <li>Manajemen Waktu</li>
+        <li>Microsoft Word</li>
+        <li>Microsoft Excel</li>
+        <li>Canva</li>
+      </ul>
+    </section>
+
+  </div>
+
+</body>
+</html>
